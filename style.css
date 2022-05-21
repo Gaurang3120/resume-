@@ -1,0 +1,95 @@
+body{
+  margin: 0;
+  text-align: center;
+}
+h1{
+font-size: 100px;
+margin: 0px;
+padding-top: 100px;
+font-family: 'Sacramento', cursive;
+color: #66BFBF;
+}
+.top{
+  background-color: #FFE3A9;
+}
+.web{
+  text-decoration: underline;
+}
+.front{
+  padding-top: 150px;
+}
+.head{
+  font-size: 25px;
+  padding-top: 100px;
+  color: black;
+}
+.cvv{
+  padding-top: 100px;
+  height: 200px;
+  width: 150px;
+}
+.css{
+  width: 25%;
+  padding-top: 100px;
+}
+.html{
+width: 25%;
+margin-right: 30px;
+}
+.skill-row{
+  width: 50%;
+  margin: auto;
+  text-align: left;
+}
+.text1{
+  text-align: left;
+color: #66BFBF;
+}
+.text2{
+  text-align: left;
+
+}
+.text3{
+  text-align: left;
+  color: #66BFBF;
+}
+.text4{
+  text-align: left;
+}
+.line{
+  border-style: dotted none none none;
+  width: 25%;
+  border-width: 5px;
+  border-color: grey;
+}
+.color{
+  color: #66BFBF;
+}
+.middle{
+  background-color: #FFD9C0;
+}
+.bottom{
+padding: 50px 0 20px;
+background-color: #FFE3A9;
+}
+.btn {
+	box-shadow: 0px 10px 14px -7px #276873;
+	background-color:#599bb3;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Georgia;
+	font-size:19px;
+	font-weight:bold;
+	padding:16px 29px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #3d768a;
+}
+.btn:hover {
+	background-color:#408c99;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
